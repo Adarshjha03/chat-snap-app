@@ -1,19 +1,11 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# Chat-Snap App
+Snap is chat application build with the power of MERN Stack.
 
-
-![login page](./images/snappy_login.png)
-
-![home page](./images/snappy.png)
-
-## Installation Guide
 
 ### Requirements
 - [Nodejs](https://nodejs.org/en/download)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
-Both should be installed and make sure mongodb is running.
-### Installation
 
 #### First Method
 ```shell
